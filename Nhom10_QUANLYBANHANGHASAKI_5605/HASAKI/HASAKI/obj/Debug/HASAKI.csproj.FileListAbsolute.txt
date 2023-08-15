@@ -1,0 +1,199 @@
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.exe.config
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.exe
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.pdb
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMLOGIN.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.exe
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.pdb
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMGIAODIEN.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormHoaDon.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormKhachHang.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormSanPham.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormTaikhoan.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormThongKe.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormNhanVien.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormKho.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMADDSP.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FORMSUA.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMXOA.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.ADDKH.resources
+C:\Users\HP\OneDrive\Desktop\Năm 2\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.SUAXOAKH.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.exe.config
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.exe
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\HASAKI.pdb
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csprojAssemblyReference.cache
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.ADDKH.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormHoaDon.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormKhachHang.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormNhanVien.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormSanPham.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FORMSUA.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormTaikhoan.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMADDSP.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMGIAODIEN.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMLOGIN.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FRMXOA.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.Properties.Resources.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.SUAXOAKH.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.GenerateResource.cache
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.CoreCompileInputs.cache
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.exe
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.pdb
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormNCC.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\EnvDTE.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\stdole.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\Microsoft.MSXML.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.CopyComplete
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\RdlCompile.cache
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\RdlCompile.compiled
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FormThongke.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCNhanVien.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCSanPham.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCHoaDon.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCNhacungcap.resources
+D:\hoctap\C#\Đồ án\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCKhachhang.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\HASAKI.exe.config
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\HASAKI.exe
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\HASAKI.pdb
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\EnvDTE.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\stdole.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\Microsoft.MSXML.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.AssemblyReference.cache
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.ADDKH.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormHoaDon.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormKhachHang.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormNCC.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormNhanVien.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormSanPham.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FORMSUA.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormTaikhoan.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FormThongke.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FRMADDSP.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCHoaDon.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCKhachhang.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCNhacungcap.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCNhanVien.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FrmBCSanPham.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FRMGIAODIEN.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FRMLOGIN.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.FRMXOA.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.Properties.Resources.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.SUAXOAKH.resources
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.GenerateResource.cache
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.CoreCompileInputs.cache
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.csproj.CopyComplete
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.exe
+D:\D\HocHanh\Nhom10_QUANLYBANHANGHASAKI_5605\HASAKI\HASAKI\obj\Debug\HASAKI.pdb
